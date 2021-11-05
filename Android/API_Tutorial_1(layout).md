@@ -8,5 +8,5 @@
 
 
 ### * UI
-![KakaoTalk_20211105_141550895](https://user-images.githubusercontent.com/59447235/140461994-f8954613-40fe-49b5-b587-28540ac6540e.jpg)
+![KakaoTalk_20211105_141550895](https://user-images.githubusercontent.com/59447235/140462356-3a69ec25-1530-476b-93e1-7279913f500f.jpg)
 
